@@ -7,3 +7,4 @@
 
 //Int1 is called to read the contents that is returned by the LC3100.  it will also be used to inject new data from an EEPROM.
 
+Cut trace between LC3100 Pin 22 and LC8100 Pin 8  (Serial Data) so I can feed eeprom data back to voice processor.
